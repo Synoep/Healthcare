@@ -26,9 +26,4 @@ Healthcare Services is a simple React web application that allows users to manag
 
 - Node.js and npm installed on your machine.
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Healthcare-services.git
